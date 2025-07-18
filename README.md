@@ -6,7 +6,7 @@ Conectado al Designer y a la Base de Datos (SQL)
 
 Miembros del grupo:
 Aguilar Preciado Anthony </br>
--Farias Moya Adamaris
--Chuisaca Villacis Milena
--Moncayo Ríos Niurka
--González Rodriguez Angie
+Farias Moya Adamaris </br>
+Chuisaca Villacis Milena </br>
+Moncayo Ríos Niurka </br>
+González Rodriguez Angie </br>
