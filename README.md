@@ -4,7 +4,7 @@ Descripción del Proyecto: El sistema permite manejar datos de personas (cliente
 
 Conectado al Designer y a la Base de Datos (SQL)
 
-Miembros del grupo:
+Miembros del grupo: </br>
 Aguilar Preciado Anthony </br>
 Farias Moya Adamaris </br>
 Chuisaca Villacis Milena </br>
