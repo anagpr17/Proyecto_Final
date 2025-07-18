@@ -1,4 +1,8 @@
-<video src="https://github.com/anagpr17/Proyecto_Final/blob/main/video1631249558.mp4" width="360" height="640"> </video>
+
+
+
+
+https://github.com/user-attachments/assets/a4dd3f4d-d190-48e3-93ec-639e475bc3cd
 
 
 Sistema de Gestión de Clientes y Ventas (Grupo 1)
